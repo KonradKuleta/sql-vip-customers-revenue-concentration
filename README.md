@@ -16,7 +16,7 @@
 
 ## What’s inside
 
-- **`notebooks/sql_vip_customer.ipynb`** – main notebook (data load → SQLite → SQL queries → results)
+- **`notebooks/sql_customer_segmentation.ipynb`** – main notebook (data load → SQLite → SQL queries → results)
 - **`data/`** – input CSVs + SQLite database file  
   - `fact_orders_2023_2025.csv`  
   - `dim_customers_2023_2025.csv`  
